@@ -1,0 +1,6 @@
+Selection sort run-time:
+- 1Kints: 6, 9 , 7
+- 2Kints: 20, 23, 19
+- 4Kints: 35, 48, 32
+- 8Kints: 76, 81, 102
+=> Độ phức tạp của selection sort là: O(n^2)
