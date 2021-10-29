@@ -27,6 +27,7 @@ public class PriorityQueue {
                 posB++;
             }
         }
+	pos--;
         a = b;
         return min;
     }
