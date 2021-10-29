@@ -1,0 +1,4 @@
+Cả hai thuật toán selection sort và insertion sort đều không nên lưu dữ liệu đầu vào trong LinkedList vì:
+- Với selection sort: có thể xảy ra trường hợp phải đổi chỗ phần tử đầu và cuối nên dùng linkedlist sẽ rất phức tạp
+- Với insertion sort: chỉ hoán đổi vị trí với các node có data nhỏ hơn ở trước, có thể dùng doubly linkedlist nhưng vẫn phức tạp
+=> Dùng linkedlist sẽ phức tạp hơn nhiều so với dùng mảng
