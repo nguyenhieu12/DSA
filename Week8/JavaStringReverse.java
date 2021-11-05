@@ -15,6 +15,7 @@ public class JavaStringReverse {
         Scanner scan = new Scanner(System.in);
         String s = scan.next();
         System.out.println(check(s));
+
     }
 
 }
