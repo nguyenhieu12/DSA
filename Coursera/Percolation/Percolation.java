@@ -1,6 +1,3 @@
-package Coursera.Percolation;
-
-import com.sun.security.jgss.GSSUtil;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
